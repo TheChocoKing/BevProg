@@ -1,2 +1,2 @@
 # Bevprog
-Bevprog drillek
+Bevezetés a programozásba drillek.
